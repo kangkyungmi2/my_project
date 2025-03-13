@@ -1,2 +1,3 @@
 Hello, Gitgit reset --hard 839f
 Feature 1 의 변경사항
+Feature 2의 변경사항
